@@ -3,6 +3,9 @@
   "description": "Conditional utility.",
   "version": "0.0.1",
   "main": "index.js",
+  "dependencies": {
+    "@taufik-nurrohman/is": ">=0.0.1"
+  },
   "exports": {
     "import": "./index.mjs",
     "require": "./index.js"
