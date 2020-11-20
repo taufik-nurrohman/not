@@ -40,38 +40,3 @@ import {notString} from '@taufik-nurrohman/not';
 
 console.log(notString(false));
 ~~~
-
-Methods
--------
-
-### notArray(x)
-
-### notBoolean(x)
-
-### notFloat(x)
-
-### notFunction(x)
-
-### notInteger(x)
-
-### notNull(x)
-
-### notNumber(x)
-
-### notNumeric(string)
-
-### notObject(x, isPlainObject = false)
-
-### notPattern(x)
-
-### notSet(x)
-
-### notString(x)
-
-### notNode(x)
-
-### notNodeComment(x)
-
-### notNodeElement(x)
-
-### notNodeText(x)

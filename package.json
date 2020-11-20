@@ -1,10 +1,10 @@
 {
   "name": "@taufik-nurrohman/not",
   "description": "Conditional utility.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "dependencies": {
-    "@taufik-nurrohman/is": ">=0.0.1"
+    "@taufik-nurrohman/is": ">=0.0.3"
   },
   "exports": {
     "import": "./index.mjs",
