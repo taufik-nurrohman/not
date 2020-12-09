@@ -15,17 +15,7 @@ console.log(notString(false));
 </script>
 ~~~
 
-### Browser Module
-
-~~~ html
-<script type="module">
-import {notString} from './@taufik-nurrohman/not/index.mjs';
-
-console.log(notString(false));
-</script>
-~~~
-
-### CommonJS Module
+### CommonJS
 
 ~~~ js
 const {notString} = require('@taufik-nurrohman/not');
@@ -33,7 +23,7 @@ const {notString} = require('@taufik-nurrohman/not');
 console.log(notString(false));
 ~~~
 
-### ECMAScript Module
+### ECMAScript
 
 ~~~ js
 import {notString} from '@taufik-nurrohman/not';
