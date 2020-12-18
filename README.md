@@ -6,15 +6,6 @@ See [@taufik-nurrohman/is](https://github.com/taufik-nurrohman/is). This is the 
 Usage
 -----
 
-### Browser
-
-~~~ html
-<script src="./@taufik-nurrohman/not/index.js"></script>
-<script>
-console.log(notString(false));
-</script>
-~~~
-
 ### CommonJS
 
 ~~~ js
