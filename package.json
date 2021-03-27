@@ -2,7 +2,7 @@
   "author": "Taufik Nurrohman",
   "bugs": "https://github.com/taufik-nurrohman/not/issues",
   "dependencies": {
-    "@taufik-nurrohman/is": ">=0.0.3"
+    "@taufik-nurrohman/is": ">=0.1.0"
   },
   "description": "Conditional utility.",
   "exports": {
@@ -25,5 +25,5 @@
     "type": "git",
     "url": "git+https://github.com/taufik-nurrohman/not.git"
   },
-  "version": "0.0.5"
+  "version": "0.0.6"
 }
